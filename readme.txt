@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Holle！
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
-修复
+修复完成
